@@ -1,0 +1,72 @@
+C:\Users\Marko\source\repos\Shop\Shop\bin\Debug\net6.0-windows\Shop.exe
+C:\Users\Marko\source\repos\Shop\Shop\bin\Debug\net6.0-windows\Shop.deps.json
+C:\Users\Marko\source\repos\Shop\Shop\bin\Debug\net6.0-windows\Shop.runtimeconfig.json
+C:\Users\Marko\source\repos\Shop\Shop\bin\Debug\net6.0-windows\Shop.dll
+C:\Users\Marko\source\repos\Shop\Shop\bin\Debug\net6.0-windows\ref\Shop.dll
+C:\Users\Marko\source\repos\Shop\Shop\bin\Debug\net6.0-windows\Shop.pdb
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.Form1.resources
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.Properties.Resources.resources
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfo.cs
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.dll
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\ref\Shop.dll
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.pdb
+C:\Users\Marko\source\repos\Shop\Shop\obj\Debug\net6.0-windows\Shop.genruntimeconfig.cache
+C:\Users\adihe\Desktop\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.exe
+C:\Users\adihe\Desktop\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.deps.json
+C:\Users\adihe\Desktop\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.runtimeconfig.json
+C:\Users\adihe\Desktop\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.dll
+C:\Users\adihe\Desktop\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.pdb
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.AssemblyReference.cache
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.Form1.resources
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.Properties.Resources.resources
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.GenerateResource.cache
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfoInputs.cache
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfo.cs
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.CoreCompileInputs.cache
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.dll
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\refint\Shop.dll
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.pdb
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.genruntimeconfig.cache
+C:\Users\adihe\Desktop\C#\Shop\Shop\obj\Debug\net6.0-windows\ref\Shop.dll
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.exe
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.deps.json
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.runtimeconfig.json
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.dll
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\bin\Debug\net6.0-windows\Shop.pdb
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.AssemblyReference.cache
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.Form1.resources
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.Properties.Resources.resources
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.GenerateResource.cache
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfoInputs.cache
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfo.cs
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.CoreCompileInputs.cache
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.dll
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\refint\Shop.dll
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.pdb
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\Shop.genruntimeconfig.cache
+C:\Users\adihe\OneDrive - Holon Institute of Technology\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\C#\Shop\Shop\obj\Debug\net6.0-windows\ref\Shop.dll
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\bin\Debug\net6.0-windows\Shop.exe
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\bin\Debug\net6.0-windows\Shop.deps.json
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\bin\Debug\net6.0-windows\Shop.runtimeconfig.json
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\bin\Debug\net6.0-windows\Shop.dll
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\bin\Debug\net6.0-windows\Shop.pdb
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.Form1.resources
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.Properties.Resources.resources
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.GenerateResource.cache
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfoInputs.cache
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.AssemblyInfo.cs
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.sourcelink.json
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.dll
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\refint\Shop.dll
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.pdb
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\Shop.genruntimeconfig.cache
+C:\Users\Inon2\Desktop\לימודים\Shop\Shop\obj\Debug\net6.0-windows\ref\Shop.dll

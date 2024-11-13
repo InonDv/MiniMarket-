@@ -1,0 +1,31 @@
+number:     	name:           description:            							price:      category:
+	1			Beef			Fresh beef 0.5KG									59.90		Meat
+	2			Chicken         Fresh chicken 300G									34.50		Meat
+	3			Ground beef     Fresh Ground beef 400G								39.40		Meat
+	4			Ham				Fine salami ham 200G								15.99		Meat
+	5			Bleach			4KG bleach, by "Touch"								38.60		Hygienic
+	6			Shampoo			2-in-1 shampoo, by "Pinuk"							9.90		Hygienic
+	7			Body soap		Body wash gel, with honey, by "Palmovile"			11.00		Hygienic
+	8			Toothbrush		Regular toothbrush,by "Neto-Dent"					6.90		Hygienic
+	9			Toothpaste		Whitening toothpaste, by "Colgate"					7.50		Hygienic
+	10			Butter			100% Butter,100G, by "Tnuva"						10.00		Dairy
+	11			Cheese			Classic yellow-cheese,150G, by "Noam"				18.90		Dairy
+	12			Cottege cheese	5% cottege cheese,100G, by "Tnuva"					8.00		Dairy
+	13			Milk			3% fresh milk,1 liter, by "Tnuva"					6.90		Dairy
+	14			Milky			Chocolate flavored pudding, by "Shtraus"			3.50		Dairy
+	15			Instant coffee	Fine instant coffee,200G, by "Elit"					10.20		Coffee
+	16			Ground coffee	Black turkish ground coffee,200G, by "Elit"			7.60		Coffee
+	17			Ice coffee		Delicate ice coffee, by "Yotveta"					5.50		Coffee
+	18			Coffee beans	Roasted coffee beans,1KG, by "Elit"					29.90		Coffee
+	19			Cucumber		Fresh cucumber,200G									4.99		Vegetables
+	20			Tomato			Fresh tomato,200G									8.30		Vegetables
+	21			Eggplant		Fresh eggplant,100G									5.80		Vegetables
+	22			Canned corn		Sweet canned corn,300G								6.90		Vegetables
+	23			Onion			Fresh regular onion,200G							4.50		Vegetables
+	24			Purple Onion	Fresh purple onion,200G								5.00		Vegetables
+	25			Mushrooms		Fresh mushrooms,300G								15.20		Vegetables
+	26			Fuze Tea		Peach flavored ice-tea,1 liter						6.30		Soft Drinks
+	27			Coca-cola		Regular Coke, 1 liter								6.60		Soft Drinks
+	28			Coca-cola zero	Zero Coke, 1 liter									6.40		Soft Drinks
+	29			Sprite			Regular sprite, 1 liter								6.50		Soft Drinks
+	

@@ -1,0 +1,32 @@
+
+1,Beef,Fresh beef,500,59.90,Meat,1
+2,Chicken,Fresh chicken,300,34.50,Meat,1
+3,Ground beef,Fresh Ground beef,400,39.40,Meat,1
+4,Ham,Fine salami ham,200,15.99,Meat,1
+5,Bleach,Bleach by "Touch",4,38.60,ShowerProduct,5
+6,Shampoo,2-in-1 shampoo by "Pinuk",0, 9.90,ShowerProduct,5
+7,Body soap,Body wash gel with honey by "Palmovile",0,11.00,ShowerProduct,5
+8,Toothbrush,Regular toothbrush by "Neto-Dent",0,6.90,DentalProduct,6
+9,Toothpaste,Whitening toothpaste by "Colgate",0,7.50,DentalProduct,6
+10,Butter,100% Butter by "Tnuva",100,10.00,Dairy,2
+11,Cheese,Classic yellow-cheese by "Noam",150,18.90,Dairy,2
+12,Cottege cheese,5% cottege cheese by "Tnuva",100,8.00,Dairy,2
+13,Milk,3% fresh milk by "Tnuva",1,6.90,Dairy,2
+14,Milky,Chocolate flavored pudding by "Shtraus",200,3.50,Dairy,2
+15,Instant coffee,Fine instant coffee by "Elit",200,10.20,Coffee,4
+16,Ground coffee,Black turkish ground coffee by "Elit",200,7.60,Coffee,4
+17,Ice coffee,Delicate ice coffee by "Yotveta",100,5.50,Coffee,4
+18,Coffee beans,Roasted coffee beans  by "Elit",1,29.90,Coffee,4
+19,Cucumber,Fresh cucumber,200,4.99,Vegetables,7
+20,Tomato,Fresh tomato,200,8.30,Vegetables,7
+21,Eggplant,Fresh eggplant,100,5.80,Vegetables,7
+22,Canned corn,Sweet canned corn,300,6.90,Vegetables,7
+23,Onion,Fresh regular onion,200,4.50,Vegetables,7
+24,Purple Onion,Fresh purple onion,200,5.00,Vegetables,7
+25,Mushrooms,Fresh mushrooms,300,15.20,Vegetables,7
+26,Fuze Tea,Peach flavored ice-tea,1,6.30,Soft Drinks,3
+27,Coca-cola,Regular Coke, 1,6.60,Soft Drinks,3
+28,Coca-cola zero,Zero Coke, 1,6.40,Soft Drinks,3
+29,Sprite,Regular sprite, 1,6.50,Soft Drinks,3
+30,Chocolate Bar, Delicious Chocolate,100,5.40,Dairy,2
+31,Pickles, Salted pickels in salt water, 200, 6.50,Vegetables,7
